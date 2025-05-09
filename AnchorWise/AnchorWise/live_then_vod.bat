@@ -1,0 +1,1 @@
+"C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\python.exe" "C:\Users\spar\Desktop\AnchorWise\live_then_vod.py"
